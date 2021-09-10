@@ -34,15 +34,3 @@ public class Main {
        }
 
 }
-
-//        public void Transformer(String robotName, String robotColor, int robotHeight, int robotWeight, int robotWidth) {
-//            this.robotName = robotName;
-//            this.robotColor = robotColor;
-//            this.robotHeight = robotHeight;
-//            this.robotWeight = robotWeight;
-//            this.robotWidth = robotWidth;
-//        }
-//        void printRobot(String name){
-//            System.out.println();
-//        }
-//    }
