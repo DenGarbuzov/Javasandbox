@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Robot Bob = new Robot("Bob","Yellow",12,1000,8);
-        Robot Jack = new Robot("Jack", "White", 12, 900, 7);
+        Robot Jack = new Robot("Jack", "Pink", 12, 900, 7);
         Robot Butty = new Robot("Butty","Green",10,750,6);
 
         System.out.println(Bob.robotName + " is " + Bob.robotHeight + " meters tall");
