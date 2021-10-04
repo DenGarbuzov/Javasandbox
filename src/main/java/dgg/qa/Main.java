@@ -3,7 +3,7 @@ package dgg.qa;
 public class Main {
 
     public static void main(String[] args) {
-        Robot Bob = new Robot("Bob","Red",12,1000,8);
+        Robot Bob = new Robot("Bob","Yellow",12,1000,8);
         Robot Jack = new Robot("Jack", "White", 12, 900, 7);
         Robot Butty = new Robot("Butty","Green",10,750,6);
 
